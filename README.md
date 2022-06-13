@@ -3,5 +3,4 @@ Intro: a device that will keep raccoons away from the trash binThe device will i
 
 Due to some reasons it's hard to upload whole project here with both hardware components and software components. Please check the url of demo video for reference.
 
-Hardware demo url: https://youtu.be/mTuHP2Pdqt0
-Software demo url: https://youtu.be/-4OhXpKDCG8
+Final demo url: https://youtu.be/xnKzT_dHWdY
